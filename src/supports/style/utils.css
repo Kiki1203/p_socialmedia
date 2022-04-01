@@ -1,0 +1,26 @@
+.bg1 {
+  background: -moz-linear-gradient(top, #fae3d9 0%, #ffb6b9 100%);
+  background: -webkit-linear-gradient(top, #fae3d9 0%, #ffb6b9 100%);
+  background: linear-gradient(to bottom, #fae3d9 0%, #ffb6b9 100%);
+}
+.bg2 {
+  background: #f9e2d8;
+}
+.bg3 {
+  background: #bbded6;
+}
+.bg4 {
+  background: #61c0bf;
+}
+
+.bg-register {
+  background: linear-gradient(288deg, #ffb6b9 0%, #ffb6b9 35%, #fae3d9 calc(35% + 1px), #fae3d9 45%, #bbded6 calc(45% + 1px), #bbded6 65%, #61c0bf calc(65% + 1px), #61c0bf 100%);
+}
+
+code {
+  font-family: 'Inter', sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue';
+  padding: 0.1rem 0.4rem;
+  font-size: 90%;
+  color: #d400ff;
+  border-radius: 0.1335rem;
+}
